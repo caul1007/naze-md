@@ -10,20 +10,20 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+	: 'https://api.lolhuman.xyz',
 }
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': '0e92565522',
+	'https://api.lolhuman.xyz': '4dd8a6b73713260e0afdc496',
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
+global.owner = ['6283841403395']
+global.ownernomer = "6283841403395"
 global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
+global.packname = 'Sticker  ABR'
+global.author = 'Ruin'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.prefa = ['','!','.','#','&']
 global.sp = ''
